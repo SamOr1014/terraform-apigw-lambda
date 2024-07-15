@@ -1,0 +1,15 @@
+**/.terraform/*
+
+
+.terraform.lock.*
+
+crash.log
+crash.*.log
+
+*.tfvars
+*.tfvars.json
+
+
+*.tfstate
+
+*.tfstate.*
