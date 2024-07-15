@@ -13,3 +13,5 @@ crash.*.log
 *.tfstate
 
 *.tfstate.*
+
+.env
